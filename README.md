@@ -7,6 +7,3 @@ CatBoostClassifier - 0.74209
 LGBMClassifier - 0.73249
 
 `pip install -r req.txt`
-
-
-test
